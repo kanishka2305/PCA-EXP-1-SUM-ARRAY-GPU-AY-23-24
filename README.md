@@ -1,5 +1,5 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>Kanishka</h3> 
+<h3>Kanishka V S</h3> 
 <h3>212222230061</h3> 
 <h3>EX. NO</h3>
 <h3>DATE</h3>
