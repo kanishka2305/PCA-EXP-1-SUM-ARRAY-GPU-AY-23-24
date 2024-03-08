@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>ENTER YOUR NAME</h3> Ksnishka
-<h3>ENTER YOUR REGISTER NO</h3> 212222230061
+<h3>Kanishka</h3> 
+<h3>212222230061</h3> 
 <h3>EX. NO</h3>
 <h3>DATE</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
